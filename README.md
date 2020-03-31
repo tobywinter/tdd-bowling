@@ -16,7 +16,7 @@ Install all dependencies
 npm i
 ```
 
-### Run the Tests
+#### Run the Tests
 
 ```
 npm test
@@ -29,8 +29,10 @@ To check your working:
 
 https://www.bowlinggenius.com/
 
+-------
 
-#### Instructons
+
+## Instructons
 
 Write a program to calculate the score of a game of Ten-Pin Bowling.
 
